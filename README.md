@@ -16,5 +16,5 @@ Completed Tasks
 - Changed selector CSS to sematic elements rather than classes
 - Updated Copyright 
 
-![Horiseon Homepage](images/Screenshot 2023-03-22 at 10.47.24 AM.png)
+![Horiseon Homepage](https://github.com/pkriengsiri/horiseon-code-refactor/blob/main/assets/images/screenshot.png)
 
