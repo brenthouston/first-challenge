@@ -16,5 +16,5 @@ Completed Tasks
 - Changed selector CSS to sematic elements rather than classes
 - Updated Copyright 
 
-![Horiseon Homepage](/Users/brenthouston/bootcamp/homework/first-challenge/assets/images/Screenshot 2023-03-22 at 10.47.24 AM.png)
+![Horiseon Homepage](images/Screenshot 2023-03-22 at 10.47.24 AM.png)
 
